@@ -1,0 +1,1 @@
+@SHUTDOWN /P /F
